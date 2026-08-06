@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/jelkyanntagle/"><img src="https://img.shields.io/badge/LinkedIn-jelkyanntagle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=keynowawa&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-<a href="https://user-badge.committers.top/philippines_public/keynowawa"><img src="https://user-badge.committers.top/philippines_public/keynowawa.svg" alt="committers.top badge" /></a>
 </div>
 
 <br>
@@ -76,6 +75,10 @@ Each one taught me something different about turning a problem into a system som
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=keynowawa&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
+
+<br>
+
+<a href="https://user-badge.committers.top/philippines_public/keynowawa"><img src="https://user-badge.committers.top/philippines_public/keynowawa.svg" alt="committers.top badge" /></a>
 
 </div>
 
