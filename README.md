@@ -63,34 +63,13 @@ Code isn’t the whole story, though. Through student leadership, I’ve led pro
 </tr>
 </table>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=keynowawa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=keynowawa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keynowawa&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
-
-<br>
-
-<a href="https://user-badge.committers.top/philippines_public/keynowawa"><img src="https://user-badge.committers.top/philippines_public/keynowawa.svg" alt="committers.top badge" /></a>
-
-</div>
-
----
 
 ## Tech Stack
 
 <div align="center">
 
-**🧠 Core Languages**<br>
+**Core Languages**<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -102,13 +81,13 @@ Code isn’t the whole story, though. Through student leadership, I’ve led pro
 
 <br>
 
-**📱 Mobile & Native Development**<br>
+**Mobile & Native Development**<br>
 <img src="https://img.shields.io/badge/AppKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="AppKit" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 
 <br>
 
-**🌐 Web Development**<br>
+**Web Development**<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -119,7 +98,7 @@ Code isn’t the whole story, though. Through student leadership, I’ve led pro
 
 <br>
 
-**⚙️ Backend & Frameworks**<br>
+**Backend & Frameworks**<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
@@ -131,13 +110,13 @@ Code isn’t the whole story, though. Through student leadership, I’ve led pro
 
 <br>
 
-**🗄️ Databases**<br>
+**Databases**<br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 <br>
 
-**☁️ Cloud & DevOps**<br>
+**Cloud & DevOps**<br>
 <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -146,13 +125,13 @@ Code isn’t the whole story, though. Through student leadership, I’ve led pro
 
 <br>
 
-**🧠 AI & Data Science**<br>
+**AI & Data Science**<br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/RapidMiner-000000?style=for-the-badge" alt="RapidMiner" />
 
 <br>
 
-**🛠️ AI & Development Tools**<br>
+**AI & Development Tools**<br>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
