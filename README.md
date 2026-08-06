@@ -5,8 +5,12 @@
 <br>
 
 <div align="center">
-<a href="mailto:info.keyno@gmail.com"><img src="https://img.shields.io/badge/Email-info.keyno%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=keynowawa&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+<a href="mailto:info.keyno@gmail.com"><img src="https://img.shields.io/badge/Email-info.keyno%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/keynowawa"><img src="https://img.shields.io/badge/GitHub-keynowawa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jelkyanntagle/"><img src="https://img.shields.io/badge/LinkedIn-jelkyanntagle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=keynowawa&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://user-badge.committers.top/philippines_public/keynowawa"><img src="https://user-badge.committers.top/philippines_public/keynowawa.svg" alt="committers.top badge" /></a>
 </div>
 
 <br>
