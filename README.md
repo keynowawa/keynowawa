@@ -23,11 +23,13 @@
 <tr>
 <td width="55%" valign="top">
 
-CS student who builds things when stressed.
+CS student from Manila & Cavite. I learn best by making things work.
 
-I work across native macOS apps, full-stack web, and frontend systems. Most of what I build comes from scratching my own itch — reverse-engineering Apple's Taptic Engine for a bubble wrap app, building scheduling tools, or making tetris harder for no reason.
+If I don't understand something, I keep pulling at the thread until I do — read, ask, break, rebuild. That curiosity keeps taking me toward full-stack development, native apps, data, and interfaces that don't make people work harder than they need to.
 
-Currently focused on shipping real software and learning by doing.
+**AnoSked** simplifies class planning. **VERA** explores more private ways to trust online reviews. **DoubleTime** keeps storefront and POS orders in sync. **bubblewrap** reverse-engineers Apple's Taptic Engine so you can pop bubble wrap through your trackpad.
+
+Each one taught me something different about turning a problem into a system someone else can actually use.
 
 </td>
 <td width="45%" valign="top">
